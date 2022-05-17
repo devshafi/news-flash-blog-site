@@ -50,7 +50,7 @@ body {
   background-color: var(--primary-background-color);
   letter-spacing: 1px;
 
-  /* theme toggle animation */
+  /* theme toggle transition animation animation */
   transition: background-color 0.25s, color 0.25s;
 }
 
